@@ -1,0 +1,32 @@
+.content-container{
+   
+    
+    
+}
+.content-image{
+
+ height: 400px;
+ width: 500px;
+
+}
+
+.content-list{
+    list-style: none;
+    padding-bottom: 30px;
+}
+.button{
+    height: 34px;
+    width: 132px;
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    border-width: 0px;
+    margin: 5px;
+}
+
+
+.logo-image{
+    height: 200px;
+    width: 200px;
+    padding-top: 0px;
+}

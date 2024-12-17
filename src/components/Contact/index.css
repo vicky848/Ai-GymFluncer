@@ -1,0 +1,21 @@
+
+.contact-container{
+    background-color: rgb(18, 143, 101);
+    height: 70vh;
+    width: 100;
+   
+
+}
+.contact-container h2{
+    padding-top: 30px;
+}
+
+
+.contact-button{
+    height: 34px;
+    width: 134px;
+    background-color: rgb(238, 255, 0);
+    color: black;
+    border-radius: 6px;
+    border-width: 0px;
+}

@@ -1,0 +1,77 @@
+.workout-gallery {
+    background-color: #f0f0f0;
+    height: 100%;
+    width: 100%;
+    
+}
+
+.gallery-heading{
+    font-size: 28px;
+    padding-top: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333333;
+}
+
+
+.gallery-grid{
+   
+
+    display: flex;
+    justify-content: center;
+
+    text-align: center;
+    margin: 5px;
+    flex-wrap: wrap;
+    
+ 
+
+
+}
+.gallery-item{
+ 
+    width: 320px;
+    height: 450px;
+    box-shadow: 5px 3px 2px rgb(206, 198, 198);
+    border-radius: 6px;
+
+}
+
+.gallery-item-content{
+  font-size: 21px;
+  font-weight: 500;
+  font-family: sans-serif;
+  color: #333333;
+  text-align: center;
+  text-shadow: 2px 2px 4px #ffffff;
+  margin-left: 10px;
+  margin-right: 10px;
+
+ 
+}
+
+
+
+
+
+
+.gallery-image{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.gallery-item-heading{
+    padding-top: 30px;
+    font-family: sans-serif;
+    font-size: 24px;
+    color: #333333;
+    text-align: center;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 4px #ffffff;
+    font-weight: bold;
+
+}
+
